@@ -3,5 +3,7 @@
     "2024-08-26-clean-embed",
     "2024-10-02-mermaid-preview"
   ],
-  "cssTheme": "Minimal"
+  "cssTheme": "Things",
+  "accentColor": "#88a6aa",
+  "theme": "moonstone"
 }
